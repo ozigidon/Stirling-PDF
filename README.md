@@ -75,7 +75,7 @@ All documentation available at [https://docs.stirlingpdf.com/](https://docs.stir
 
 ### Other Operations
 
-- Add/generate/write signatures
+- Add/generate/write signatures 
 - Split by Size or PDF
 - Repair PDFs
 - Detect and remove blank pages
